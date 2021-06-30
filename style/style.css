@@ -1,0 +1,59 @@
+*{
+    background: #DDD5C2;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: DM Sans;
+    color: #414141
+}
+p{
+    font-family: DM Sans;
+    color:  #414141;
+}
+
+
+.card .btn{
+    background-color: #414141;
+    font-family: DM Sans;
+    color: white;
+}
+.card-s1 .card{
+    width: 251px;
+    height: 327px;
+    text-align: center;
+
+    border-radius: 30px;
+}
+.card-s1 .card-body{
+    
+    background-color: white;
+    text-align: center;
+    margin-top: 80%;
+    font-weight: 700;
+}
+.card-s1 .card-text{
+    background-color: white;
+}
+
+.card-s2,.card-s3{
+    border: 3px solid black;
+}
+/*card section-2*/
+.card-s2{
+    height: 320px;
+}
+.card-s2 .card-title{
+    font-size: 55px;
+}
+
+.card-s2 .card-text{
+    font-size: 18px;
+}
+
+.card-s3{
+    height: 250px;
+}
+
+.card-s3 .card-text{
+    font-size:20px ;
+}
